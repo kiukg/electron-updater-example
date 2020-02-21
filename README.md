@@ -20,7 +20,7 @@ If you can't use GitHub, you can use other providers:
             "build": {
                 "publish": [{
                     "provider": "github",
-                    "owner": "iffy",
+                    "owner": "kiukg",
                     "repo": "electron-updater-example"
                 }],
                 ...
@@ -43,7 +43,7 @@ If you can't use GitHub, you can use other providers:
 
     On Windows, run in powershell:
 
-        [Environment]::SetEnvironmentVariable("GH_TOKEN","<YOUR_TOKEN_HERE>","User")
+        [Environment]::SetEnvironmentVariable("GH_TOKEN","<0d6bfc71de715f3baacadcb41eda6e035f6e4282>","User")
 
     Make sure to restart IDE/Terminal to inherit latest env variable.
 
